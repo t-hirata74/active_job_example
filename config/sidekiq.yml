@@ -1,0 +1,4 @@
+# 手作業で作成
+:queues:
+  - default
+  - async_log
